@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "message-details-synce",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "35913f4e-e69a-440f-8037-fe58147386a8",
+      "database_name": "still-sunset-325a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
